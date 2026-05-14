@@ -352,7 +352,7 @@ _Especially excited about: SaaS products, design systems, and performance-critic
 
 <br/>
 
-**Crafted with 💙 by Salman Shahid — Frontend Engineer**
+**Crafted with 💙 by Salman Shahid — Frontend Developer**
 <br/>
 *© 2024 · Built with passion for the pixel-perfect*
 
