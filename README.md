@@ -1,424 +1,434 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Salman%20Shahid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%E2%80%A2%20UI%2FUX%20Craftsman%20%E2%80%A2%20React%20Specialist&descAlignY=62&descSize=16" width="100%" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+Pixel-Perfect+Interfaces+%F0%9F%8E%A8;Crafting+Scalable+Frontend+Architecture+%F0%9F%8F%97%EF%B8%8F;Obsessed+with+Performance+%26+UX+%E2%9A%A1;3%2B+Years+of+Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=salmanshahid&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-58A6FF?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lives-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-success?style=for-the-badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge" />
-</p>
-
-</div>
-
----
-
-<!-- ABOUT ME -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Hey, I'm Salman Shahid
-
-<table>
-<tr>
-<td width="55%">
-
-```ts
-const salman: FrontendEngineer = {
-  name:       "Salman Shahid",
-  role:       "Frontend Developer",
-  experience: "3+ Years",
-  location:   "Pakistan 🇵🇰",
-
-  coreBeliefs: [
-    "UI is a product, not decoration",
-    "Performance IS user experience",
-    "Code should be as clean as the UI",
-  ],
-
-  currentFocus: [
-    "Next.js 14 App Router",
-    "Micro-frontend Architecture",
-    "Web Animations & Motion Design",
-  ],
-
-  funFact: "I debug CSS at 2AM and love it 🎨",
-};
+```json
+{
+  "profile": {
+    "name": "Salman Shahid",
+    "role": "Frontend Developer",
+    "experience": "3+ Years",
+    "focus": "Crafting pixel-perfect, high-performance web experiences",
+    "status": "Open to opportunities",
+    "location": "Pakistan 🇵🇰",
+    "tagline": "I don't just write code — I architect experiences."
+  }
+}
 ```
 
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanshahid&custom_title=Salman's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> **"I don't just build interfaces — I engineer digital experiences that users feel, remember, and return to."**
-
-<br/>
-
-### 🎯 What I Bring to the Table
-
-- 🏗️ &nbsp; **Frontend Architecture** — Scalable component systems, atomic design, and maintainable codebases
-- ⚡ &nbsp; **Performance Engineering** — Core Web Vitals obsessed; lazy loading, code splitting, bundle optimization
-- 🎨 &nbsp; **UI/UX Precision** — Pixel-perfect implementation with a deep eye for design details
-- 🔄 &nbsp; **Animation & Motion** — Fluid, purposeful animations using Framer Motion & CSS
-- 📱 &nbsp; **Responsive by Default** — Mobile-first, adaptive layouts across all viewports
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
-
-## 🛠️ &nbsp; Tech Arsenal
 
 <div align="center">
 
-### ⚡ Core Languages & Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 🎨 Styling & Animation
-
-<p>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-### 🔧 Tools & Ecosystem
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🧠 &nbsp; Frontend Expertise Matrix
-
-<div align="center">
-
-| Domain | Skills | Proficiency |
-|--------|--------|-------------|
-| ⚛️ **React Ecosystem** | React.js, Hooks, Context, Redux, React Query | `████████████` Expert |
-| 🏗️ **Next.js** | App Router, SSR, SSG, ISR, Middleware | `███████████░` Advanced |
-| 🎯 **TypeScript** | Generics, Utility Types, Strict Mode | `██████████░░` Advanced |
-| 🎨 **CSS & Styling** | Tailwind, CSS Modules, Animations, Responsive | `████████████` Expert |
-| 🌀 **Motion & UX** | Framer Motion, CSS Transitions, Micro-interactions | `███████████░` Advanced |
-| 🔌 **API Integration** | REST, Axios, Fetch, SWR, Error Handling | `███████████░` Advanced |
-| 📐 **Architecture** | Component Design, Design Systems, Atomic Design | `██████████░░` Advanced |
-| ⚡ **Performance** | Core Web Vitals, Lazy Loading, Code Splitting | `█████████░░░` Proficient |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 📊 &nbsp; GitHub Intelligence
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmanshahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshahid&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanshahid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="60%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🚀 &nbsp; Featured Projects
-
-<div align="center">
-
-<!-- PROJECT CARD 1 -->
-<a href="https://github.com/salmanshahid/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanshahid&repo=project-one&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-&nbsp;&nbsp;
-<!-- PROJECT CARD 2 -->
-<a href="https://github.com/salmanshahid/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanshahid&repo=project-two&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-
-</div>
-
-<br/>
-
-### 💎 Highlighted Work
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🌐 Project Alpha — SaaS Dashboard
-> A production-grade analytics dashboard built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. Features real-time data, role-based access, and animated data visualizations.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind` `Recharts` `Framer Motion`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-58A6FF?style=flat-square)](https://your-portfolio.com)
-[![Source Code](https://img.shields.io/badge/Source%20Code-→-grey?style=flat-square&logo=github)](https://github.com/salmanshahid)
-
-</td>
-<td width="50%">
-
-#### 🛒 Project Beta — E-Commerce Platform
-> Full-featured storefront with SSR, cart state management, smooth page transitions, and optimized LCP scores achieving **< 1s load time**.
-
-**Stack:** `Next.js` `React` `Zustand` `Framer Motion` `REST API`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-58A6FF?style=flat-square)](https://your-portfolio.com)
-[![Source Code](https://img.shields.io/badge/Source%20Code-→-grey?style=flat-square&logo=github)](https://github.com/salmanshahid)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎨 Project Gamma — Design System
-> A custom, reusable component library and design system built from scratch. Documented with Storybook, typed with TypeScript, and published as an npm package.
-
-**Stack:** `React` `TypeScript` `Storybook` `Rollup` `Tailwind`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-58A6FF?style=flat-square)](https://your-portfolio.com)
-[![Source Code](https://img.shields.io/badge/Source%20Code-→-grey?style=flat-square&logo=github)](https://github.com/salmanshahid)
-
-</td>
-<td width="50%">
-
-#### ⚡ Project Delta — Portfolio Site
-> A high-performance personal portfolio with scroll-driven animations, 3D transforms, and a perfect Lighthouse score — built to impress recruiters and developers alike.
-
-**Stack:** `Next.js` `Framer Motion` `TypeScript` `GSAP` `Tailwind`
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-→-58A6FF?style=flat-square)](https://your-portfolio.com)
-[![Source Code](https://img.shields.io/badge/Source%20Code-→-grey?style=flat-square&logo=github)](https://github.com/salmanshahid)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 💼 &nbsp; Experience Snapshot
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     PROFESSIONAL TIMELINE                           │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🔵  [2024 – Present]   Senior Frontend Developer @ [Company]       │
-│       Next.js • TypeScript • Design Systems • Team Lead             │
-│                                                                     │
-│  🟣  [2022 – 2024]      Frontend Developer @ [Company]              │
-│       React.js • Tailwind CSS • REST APIs • Component Architecture  │
-│                                                                     │
-│  🟢  [2021 – 2022]      Junior Frontend Developer @ [Company]       │
-│       HTML5 • CSS3 • JavaScript • Responsive Design                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```json
+{
+  "introduction": {
+    "greeting": "Hey there 👋 I'm Salman Shahid",
+    "summary": "A passionate Frontend Developer with 3+ years of experience building scalable, accessible, and visually stunning web applications. I specialize in React.js and Next.js ecosystems, with a deep focus on UI/UX quality, performance optimization, and component-driven architecture.",
+    "philosophy": "Great UI is not just what it looks like — it's how it works, how it feels, and how fast it loads.",
+    "currently_building": "High-performance frontends with Next.js + TypeScript",
+    "currently_learning": "Advanced animation systems with Framer Motion",
+    "ask_me_about": ["React architecture", "Next.js", "Tailwind CSS", "Frontend performance"],
+    "fun_fact": "I obsess over pixel-perfect designs and 100/100 Lighthouse scores."
+  }
+}
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🤝 &nbsp; Let's Connect & Build Something Great
-
-<div align="center">
-
-<p>
-  <a href="https://github.com/salmanshahid" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/salmanshahid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://salmanshahid.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:hello@salmanshahid.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://dev.to/salmanshahid" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/salmanshahid" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-**📬 I'm always open to freelance projects, full-time roles, and interesting collaborations.**
-<br/>
-_Especially excited about: SaaS products, design systems, and performance-critical applications._
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🏆 &nbsp; GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=salmanshahid&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" />
-
-<br/><br/>
-
-```
- ⚡ "The best interface is the one users don't have to think about." 
+```json
+{
+  "about_me": {
+    "developer_type": "UI/UX-Focused Frontend Engineer",
+    "core_belief": "The browser is the most powerful design tool ever created.",
+    "what_i_do": [
+      "Transform Figma designs into pixel-perfect, responsive interfaces",
+      "Build scalable component libraries with React & TypeScript",
+      "Optimize Core Web Vitals for maximum performance scores",
+      "Create smooth, meaningful UI animations with Framer Motion",
+      "Architect frontend systems that scale with product growth"
+    ],
+    "values": {
+      "clean_code": true,
+      "accessibility": true,
+      "performance_first": true,
+      "design_systems": true,
+      "continuous_learning": true
+    }
+  }
+}
 ```
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanshahid/salmanshahid/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanshahid/salmanshahid/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/salmanshahid/salmanshahid/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+## 🧰 Tech Stack & Skills
 
-<br/>
+<div align="center">
 
-**Crafted with 💙 by Salman Shahid — Frontend Developer**
-<br/>
-*© 2024 · Built with passion for the pixel-perfect*
+```json
+{
+  "tech_stack": {
+    "core_languages": {
+      "JavaScript": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black",
+      "TypeScript": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white",
+      "HTML5": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white",
+      "CSS3": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    },
+    "frameworks_and_libraries": {
+      "React.js": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB",
+      "Next.js": "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white",
+      "Tailwind_CSS": "https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white",
+      "Framer_Motion": "https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"
+    },
+    "tools_and_platforms": {
+      "Git": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white",
+      "GitHub": "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white",
+      "VS_Code": "https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white",
+      "Figma": "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white",
+      "Vercel": "https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white",
+      "npm": "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+    },
+    "specializations": {
+      "REST_APIs": "https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white",
+      "Responsive_Design": "https://img.shields.io/badge/Responsive_Design-0078D4?style=for-the-badge&logo=css3&logoColor=white",
+      "Performance_Optimization": "https://img.shields.io/badge/Lighthouse_100-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+    }
+  }
+}
+```
 
 </div>
 
+<div align="center">
 
-Create a world-class, modern, visually stunning, and highly professional GitHub README.md for a Frontend Developer named Salman Shahid with 3+ years of experience in frontend development.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-The README should look premium, polished, and recruiter-friendly with a strong modern developer branding style similar to top GitHub developers.
+</div>
 
-Tech Stack & Skills:
-- React.js
-- Next.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- TypeScript
-- Framer Motion
-- Responsive Web Design
-- REST APIs
-- UI/UX Focused Development
-- Git & GitHub
-- Frontend Architecture
-- Component-Based Design
-- Performance Optimization
+---
 
-The README should include:
+## 📊 Frontend Expertise
 
-1. A stunning hero section with animated typing text or stylish intro
-2. Professional developer introduction
-3. "About Me" section
-4. Frontend developer branding statement
-5. Tech stack section with beautiful badges/icons
-6. Tools & technologies section
-7. GitHub stats section
-8. Contribution streak section
-9. Top languages section
-10. Featured projects section with stylish project cards
-11. Experience summary
-12. Skills progress or categorized frontend expertise
-13. Modern UI design using shields.io badges, SVG animations, gradients, and clean spacing
-14. Contact section with social links placeholders:
-   - GitHub
-   - LinkedIn
-   - Portfolio
-   - Email
-15. A clean footer with developer branding
-16. Professional typography and spacing
-17. Dark-theme optimized aesthetic
-18. Mobile-friendly markdown layout
-19. Use high-quality markdown formatting
-20. Add subtle frontend developer personality and premium aesthetics
+<div align="center">
 
-Important Requirements:
-- Make the README look elite-level and visually impressive
-- Use modern GitHub profile README trends
-- Add animated GIF/SVG sections where suitable
-- Use stylish headings and separators
-- Make the design feel like a senior frontend engineer portfolio
-- Focus heavily on UI/UX presentation
-- Do NOT make it generic
-- Make it unique, premium, and memorable
-- Keep the writing professional but modern
-- Include placeholders for portfolio links and social accounts
-- Use markdown only
-- Generate the COMPLETE README.md code
+```json
+{
+  "frontend_expertise": {
+    "ui_development": {
+      "level": "Expert",
+      "score": "95/100",
+      "skills": ["React.js", "Next.js", "Component Architecture", "JSX/TSX"],
+      "badge": "https://img.shields.io/badge/UI_Development-95%25-61DAFB?style=flat-square&logo=react"
+    },
+    "styling_and_design": {
+      "level": "Expert",
+      "score": "93/100",
+      "skills": ["Tailwind CSS", "CSS3", "Responsive Design", "Design Systems"],
+      "badge": "https://img.shields.io/badge/Styling_%26_Design-93%25-06B6D4?style=flat-square&logo=tailwindcss"
+    },
+    "typescript": {
+      "level": "Advanced",
+      "score": "88/100",
+      "skills": ["TypeScript", "Type Safety", "Interfaces", "Generics"],
+      "badge": "https://img.shields.io/badge/TypeScript-88%25-3178C6?style=flat-square&logo=typescript"
+    },
+    "animations_and_motion": {
+      "level": "Advanced",
+      "score": "85/100",
+      "skills": ["Framer Motion", "CSS Animations", "Transitions", "Keyframes"],
+      "badge": "https://img.shields.io/badge/Animations-85%25-0055FF?style=flat-square&logo=framer"
+    },
+    "performance_optimization": {
+      "level": "Advanced",
+      "score": "90/100",
+      "skills": ["Core Web Vitals", "Lazy Loading", "Code Splitting", "Lighthouse"],
+      "badge": "https://img.shields.io/badge/Performance-90%25-4285F4?style=flat-square&logo=googlechrome"
+    },
+    "api_integration": {
+      "level": "Advanced",
+      "score": "87/100",
+      "skills": ["REST APIs", "Fetch", "Axios", "Async/Await", "State Management"],
+      "badge": "https://img.shields.io/badge/API_Integration-87%25-FF6C37?style=flat-square&logo=postman"
+    }
+  }
+}
+```
 
-The final output should feel like a frontend engineer who deeply understands design systems, modern UI, animations, responsive design, and scalable frontend architecture.
+</div>
+
+<div align="center">
+
+| Domain | Proficiency | Level |
+|--------|-------------|-------|
+| 🔵 **React & Next.js Development** | `████████████████████░` 95% | Expert |
+| 🎨 **Tailwind CSS & Design Systems** | `███████████████████░░` 93% | Expert |
+| ⚡ **Performance Optimization** | `██████████████████░░░` 90% | Advanced |
+| 🔷 **TypeScript** | `█████████████████░░░░` 88% | Advanced |
+| 🌐 **REST API Integration** | `█████████████████░░░░` 87% | Advanced |
+| 🎬 **Framer Motion & UI Animations** | `█████████████████░░░░` 85% | Advanced |
+| 📱 **Responsive & Mobile-First Design** | `██████████████████░░░` 92% | Expert |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+```json
+{
+  "featured_projects": [
+    {
+      "id": "01",
+      "name": "Project Alpha",
+      "tagline": "Modern SaaS Dashboard",
+      "description": "A high-performance SaaS analytics dashboard built with Next.js 14, TypeScript, and Tailwind CSS. Features real-time data visualization, dark/light mode, and fully responsive design.",
+      "tech_stack": ["Next.js 14", "TypeScript", "Tailwind CSS", "Framer Motion", "REST APIs"],
+      "highlights": [
+        "100/100 Lighthouse Performance Score",
+        "Server-side rendering with Next.js App Router",
+        "Complex data visualizations with Recharts",
+        "Smooth page transitions via Framer Motion"
+      ],
+      "status": "Live",
+      "links": {
+        "demo": "https://your-demo-link.vercel.app",
+        "github": "https://github.com/salmanshahid/project-alpha"
+      }
+    },
+    {
+      "id": "02",
+      "name": "Project Beta",
+      "tagline": "Component Design System",
+      "description": "A production-ready, fully typed React component library built with TypeScript and Tailwind CSS. Includes 50+ components, dark mode support, and comprehensive documentation.",
+      "tech_stack": ["React.js", "TypeScript", "Tailwind CSS", "Storybook"],
+      "highlights": [
+        "50+ reusable, accessible components",
+        "Full TypeScript type definitions",
+        "WCAG 2.1 accessibility compliant",
+        "Comprehensive Storybook documentation"
+      ],
+      "status": "In Progress",
+      "links": {
+        "demo": "https://your-storybook-link.vercel.app",
+        "github": "https://github.com/salmanshahid/project-beta"
+      }
+    },
+    {
+      "id": "03",
+      "name": "Project Gamma",
+      "tagline": "Animated Portfolio & Landing Pages",
+      "description": "A collection of premium landing page templates featuring Framer Motion animations, parallax effects, and conversion-optimized layouts built for modern startups.",
+      "tech_stack": ["Next.js", "Framer Motion", "Tailwind CSS", "JavaScript"],
+      "highlights": [
+        "Cinematic scroll-triggered animations",
+        "Parallax depth effects",
+        "Optimized for Core Web Vitals",
+        "Mobile-first responsive layouts"
+      ],
+      "status": "Live",
+      "links": {
+        "demo": "https://your-portfolio-link.vercel.app",
+        "github": "https://github.com/salmanshahid/project-gamma"
+      }
+    }
+  ]
+}
+```
+
+</div>
+
+---
+
+## 💼 Experience Summary
+
+<div align="center">
+
+```json
+{
+  "experience": {
+    "total_years": "3+",
+    "timeline": [
+      {
+        "period": "2022 — Present",
+        "role": "Senior Frontend Developer",
+        "company": "Your Current Company",
+        "type": "Full-time",
+        "impact": [
+          "Led frontend architecture for 3 large-scale Next.js applications",
+          "Reduced bundle size by 40% via code splitting and tree-shaking",
+          "Mentored 2 junior developers in React best practices",
+          "Established component library adopted across 5 projects"
+        ]
+      },
+      {
+        "period": "2021 — 2022",
+        "role": "Frontend Developer",
+        "company": "Previous Company",
+        "type": "Full-time",
+        "impact": [
+          "Built 10+ responsive landing pages with React and Tailwind CSS",
+          "Integrated 15+ REST API endpoints with clean async/await patterns",
+          "Improved page load times by 35% through performance audits",
+          "Implemented Framer Motion micro-interactions across core user flows"
+        ]
+      },
+      {
+        "period": "2020 — 2021",
+        "role": "Junior Frontend Developer",
+        "company": "Freelance / Startup",
+        "type": "Contract",
+        "impact": [
+          "Developed 20+ client websites with HTML5, CSS3, and JavaScript",
+          "Transitioned from vanilla JS to React.js ecosystem",
+          "Delivered pixel-perfect UI from Figma designs",
+          "Maintained 100% client satisfaction rate"
+        ]
+      }
+    ]
+  }
+}
+```
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+```json
+{
+  "github_stats": {
+    "username": "salmanshahid",
+    "profile_url": "https://github.com/salmanshahid",
+    "stats_card": "https://github-readme-stats.vercel.app/api?username=salmanshahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9",
+    "streak_card": "https://github-readme-streak-stats.herokuapp.com/?user=salmanshahid&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF",
+    "top_languages": "https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9",
+    "trophies": "https://github-profile-trophy.vercel.app/?username=salmanshahid&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=7"
+  }
+}
+```
+
+</div>
+
+<div align="center">
+
+![Salman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanshahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanshahid&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanshahid&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=salmanshahid&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+```json
+{
+  "contact": {
+    "availability": "Open to freelance, full-time, and remote opportunities",
+    "response_time": "Within 24 hours",
+    "preferred_contact": "LinkedIn or Email",
+    "social_links": {
+      "github": {
+        "url": "https://github.com/salmanshahid",
+        "badge": "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      },
+      "linkedin": {
+        "url": "https://linkedin.com/in/salmanshahid",
+        "badge": "https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      },
+      "portfolio": {
+        "url": "https://salmanshahid.dev",
+        "badge": "https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"
+      },
+      "email": {
+        "url": "mailto:salmanshahid@email.com",
+        "badge": "https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      }
+    }
+  }
+}
+```
+
+</div>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanshahid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanshahid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salmanshahid.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanshahid@email.com)
+
+</div>
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmanshahid&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+```json
+{
+  "footer": {
+    "author": "Salman Shahid",
+    "role": "Frontend Developer",
+    "year": 2025,
+    "quote": "Clean code is not written by following a set of rules. It is written by a craftsman.",
+    "signature": "Built with precision. Designed with purpose. Shipped with care.",
+    "profile_views": "https://komarev.com/ghpvc/?username=salmanshahid&color=58A6FF&style=flat-square&label=Profile+Views",
+    "open_source": true,
+    "available_for_hire": true
+  }
+}
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=salmanshahid&color=58A6FF&style=flat-square&label=Profile+Views)
+
+*"Clean code is not written by following a set of rules — it is written by a craftsman."*
+
+**— Salman Shahid · Frontend Developer · Pakistan 🇵🇰**
+
+</div>
